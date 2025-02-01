@@ -19,3 +19,9 @@ The training process involves the generator and discriminator competing against 
 The project includes a notebook that performs the following tasks:
 - Adds noise to images.
 - Trains the GAN model to improve the quality of noisy images.
+
+## Test Folder
+The `test` folder contains the code for testing the trained GAN model. It includes scripts for:
+- Loading the trained model.
+- Running the model on test images.
+- Evaluating the quality of the generated images compared to the high-quality images.
