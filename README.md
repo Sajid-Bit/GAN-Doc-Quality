@@ -4,3 +4,7 @@ The repository `Sajid-Bit/GAN-Doc-Quality` focuses on improving the quality of d
 The `data` folder contains two subdirectories:
 - `img_A`: This folder contains images with low quality.
 - `img_B`: This folder contains images with high quality.
+## Notebooks
+The project includes a notebook that performs the following tasks:
+- Adds noise to images.
+- Trains the GAN model to improve the quality of noisy images.
